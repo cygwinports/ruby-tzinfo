@@ -1,0 +1,10 @@
+inherit rubygem
+
+NAME="ruby-tzinfo"
+VERSION=0.3.35
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby time zone database"
+DESCRIPTION="TZInfo is a Ruby library that uses the standard tz (Olson)
+database to provide daylight savings aware transformations between times in
+different time zones."
