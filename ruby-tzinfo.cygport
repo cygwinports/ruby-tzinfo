@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-tzinfo"
-VERSION=0.3.41
+VERSION=0.3.42
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Ruby time zone database"
